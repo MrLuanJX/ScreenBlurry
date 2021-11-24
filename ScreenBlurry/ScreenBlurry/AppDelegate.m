@@ -40,7 +40,7 @@
 //- (void)applicationWillResignActive:(UIApplication *)application {
 //    [LXXScreenBlurry addBlurryScreenImage];
 //}
-
+//
 //- (void)applicationDidBecomeActive:(UIApplication *)application {
 //    // 进入前台
 //    [LXXScreenBlurry removeBlurryScreenImage];
